@@ -1,6 +1,6 @@
 {
-    "name": "jonaspardon/laravel-event-visualizer",
-    "description": "Laravel package to visualize events with their handlers, including jobs to chain them together",
+    "name": "iamserjo/laravel-event-visualizer",
+    "description": "Laravel 12 package to visualize events with their handlers, including jobs to chain them together",
     "keywords": [
         "JonasPardon",
         "laravel",
